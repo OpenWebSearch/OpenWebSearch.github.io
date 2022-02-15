@@ -1,0 +1,5 @@
+# Envisioned Technology Stack
+
+Methodologically OWS follows a mixture of conceptual considerations, algorithmic innovations and technology developments. We structure our research along the data processing chain for search and discov-ery systems while considering different stakeholders and services. The following figure gives an overview of the differ-ent components, the envisioned chain, corresponding stakeholders as well as the resulting data products.
+
+![](img/technical-vision.png)
