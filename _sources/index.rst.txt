@@ -6,6 +6,22 @@
 OpenWebSearch.eu
 ================
 
+Web search has become an essential technology and commodity, driving not only future innovations but forming a backbone for our digital economy. Regrettably, currently few non-European gatekeepers control Web search, which creates a biased, one-sided information access centred around economic success rather than the needs of citizens or European values and jurisdiction. This one-sided ecosystem puts pressure on many small Web contributors from science, economy, art, culture, media and society requiring them to optimize their content for a few gatekeepers. A system greatly benefiting the gatekeepers thereby creates a vicious cycle, which leads to locked-in effects and a closed search engine market.
+To promote an open human-centred search engine market and provide a true choice to users when selecting search engines based on their own preferences, OpenWebSearch.EU proposes to develop and pilot the core of a European Open Web Index (OWI) and the foundation for an open and extensible European open Web Search and Analysis Infrastructure (OWSAI). Our approach is based on four objectives, namely (1) to develop a core suite of search, discovery and analytics services to create, maintain and utilize the OWI; (2) to develop relevant search engine verticals and new search paradigms demonstrating the impact; (3) to establish a network of European HPC-infrastructure, research and business organizations to pilot the OWSAI based on Europe’s values, principles, legislation, ethics and standards; (4) to stimulate an ecosystem around the OWI. The envisioned infrastructure will not only contribute to Europe’s sovereignty for navigating and searching the web, it will also empower Europe’s researchers, innovators and business to systematically tap into the Web as business and innovation resource, without paying huge upfront costs. This will be particularly crucial for future AI innovations and relevant for other European infrastructure like e.g. the European Open Science Cloud, GAIA-X.
+
+Objectives
+----------
+
+.. image:: content/img/objectives.png
+
+
+Envisioned Technology Stack
+---------------------------
+
+Methodologically OWS follows a mixture of conceptual considerations, algorithmic innovations and technology developments. We structure our research along the data processing chain for search and discov-ery systems while considering different stakeholders and services. The following figure gives an overview of the differ-ent components, the envisioned chain, corresponding stakeholders as well as the resulting data products.
+
+.. image:: content/img/technical-vision.png
+
 .. toctree::
    :hidden:
    :maxdepth: 1
