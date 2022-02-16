@@ -5,7 +5,7 @@ Throuh the [Open Search Foundation](https://opensearchfoundation.org/) and its w
 
 ## Tech-Activities
 
-:::{panels}
+````{panels}
 
 Webis Experimental Search Services [Chat Noir](http://chatnoir.eu) and [Args - Argument Search](https://www.args.me/index.html)
 
@@ -21,4 +21,4 @@ A  [filtering pipeline for commoncrawls](https://pipeline.shared-search.eu/) for
 
 Decentralised Search
 
-:::
+````
