@@ -1,0 +1,24 @@
+# Ongoing Activities
+
+Throuh the [Open Search Foundation](https://opensearchfoundation.org/) and its wider community we are already engaged in making OpenWebSearch.EU a reality.
+
+
+## Tech-Activities
+
+:::{panels}
+
+Webis Experimental Search Services [Chat Noir](http://chatnoir.eu) and [Args - Argument Search](https://www.args.me/index.html)
+
+---
+
+The [Open Web Console](https://open-console.eu/) for Web-Masters.
+
+---
+
+A  [filtering pipeline for commoncrawls](https://pipeline.shared-search.eu/) for those interested in web data
+
+---
+
+Decentralised Search
+
+:::
